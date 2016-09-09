@@ -1,0 +1,117 @@
+/* mi header */
+ul{
+	text-align: center;
+	margin-left: 35%;
+}
+li, a {
+	text-decoration: none;
+	list-style: none;
+	display: inline-block;	   
+	color: black;
+	font-size: 15px;	 
+	margin-top: 2%;
+	margin-bottom: 1%;
+	float: left;
+	text-align: center; 
+	margin-left: 5%;
+
+}
+
+
+.banner{
+	background-image: url(../images/background.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;	
+	height:500px;
+	position: relative;	
+}
+
+.logo{
+	text-align: center;
+	margin-top: 6%;
+	margin-bottom: 1%;
+	margin-left: 47%;
+}
+
+.your-uno{
+	text-align: center;
+	color: #FFFFFF;
+	font-size: 40px;
+}
+.your-dos{
+	text-align: center;
+	color: #FFFFFF;
+	font-size: 25px;
+}
+
+.fondo{
+	background-image: url(../images/tile1.png);
+}
+
+.perfil{
+	width: 40%;
+	border: solid black 1px;
+	padding: 3px 3px; 
+	margin-left: 60%;
+	margin-top: 17%;
+	margin-bottom: 8%;
+}
+
+.about{
+	color: #8B00DF;
+	font-family: 'Oswald';
+	margin-top: 5%;
+	margin-left: 20%;
+	margin-bottom: 3%;
+}
+
+.parrafo{
+	margin-right: 25%;
+	font-size: 14px;
+}
+
+.titulos{
+	color: #8B00DF;
+	font-family: 'Oswald';
+	margin-top: 5%;
+	text-align: center;
+	margin-bottom: 2%;
+}
+
+.ima{
+	border:solid;
+	color:#8B00DF; 
+	border-radius: 100%;
+	padding: 3px;
+	margin-bottom: 9%;
+}
+
+div.fondo2{
+	background-image: url(../images/tile2.png);
+	width: 100%;
+}
+
+
+.contact{
+	color: #8B00DF;
+	font-family: 'Oswald';
+	margin-top: 5%;
+	text-align: center;
+	margin-bottom: 2%;
+}
+
+.containerfinal{
+	margin: 0 auto;
+    width: 50%;
+    position: absolute;
+    left:350px;
+
+   
+
+}
+.containerfinal div img{
+	padding: 20px;
+    width: 100%;
+    margin-bottom: 30px;
+
+}
